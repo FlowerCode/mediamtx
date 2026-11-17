@@ -106,4 +106,4 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
 
-replace github.com/bluenviron/gortsplib/v5 => github.com/FlowerCode/gortsplib/v5 v5.7.1-0.20261117034128-0dfdff66c679
+replace github.com/bluenviron/gortsplib/v5 => github.com/FlowerCode/gortsplib/v5 v5.7.1-0.20261117035015-256d75a78c09

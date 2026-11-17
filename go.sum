@@ -4,8 +4,8 @@ code.cloudfoundry.org/bytefmt v0.98.0 h1:px6HFPVKTzTVGZwNKZeK/2iLVghvksygJZB7KQH
 code.cloudfoundry.org/bytefmt v0.98.0/go.mod h1:kXmN7r3ZtQkvRn+EsOasRqLGlwqyk5c1akTzNAtVh9o=
 dario.cat/mergo v1.0.0 h1:AGCNq9Evsj31mOgNPcLyXc+4PNABt905YmuqPYYpBWk=
 dario.cat/mergo v1.0.0/go.mod h1:uNxQE+84aUszobStD9th8a29P2fMDhsBdgRYvZOxGmk=
-github.com/FlowerCode/gortsplib/v5 v5.7.1-0.20261117034128-0dfdff66c679 h1:mnq0++If/VRCG/tcfDjbjkEKlhtFdfHABBIkyKRXI84=
-github.com/FlowerCode/gortsplib/v5 v5.7.1-0.20261117034128-0dfdff66c679/go.mod h1:AzwaZ0gzsaajVdnMleX5Xx6OTrUl8t+Zj8UiVscKlTM=
+github.com/FlowerCode/gortsplib/v5 v5.7.1-0.20261117035015-256d75a78c09 h1:bMI4XMr4Eme9d92HDD4fI5fTa39gFJGWRFQ4f6LtYLo=
+github.com/FlowerCode/gortsplib/v5 v5.7.1-0.20261117035015-256d75a78c09/go.mod h1:AzwaZ0gzsaajVdnMleX5Xx6OTrUl8t+Zj8UiVscKlTM=
 github.com/Masterminds/semver/v3 v3.5.0 h1:kQceYJfbupGfZOKZQg0kou0DgAKhzDg2NZPAwZ/2OOE=
 github.com/Masterminds/semver/v3 v3.5.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
 github.com/MicahParks/jwkset v0.11.4 h1:sm6pqlEpa1YDu82Hoxho/O+Y291lPcksNImVIsV74gg=
